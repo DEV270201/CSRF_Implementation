@@ -1,6 +1,3 @@
-"# CSRF_Implementation" 
-<h1 align="center">Solar System</h1>
-
 <div align="center">
   
   <h2>CSRF Implementation</h2>
@@ -57,7 +54,12 @@ After cloning the code run 'npm install' to download all the required libraries 
  $ npm install
 
 Start the project, navigate to the project directory on the terminal;
-After 
+
+* Run the script 'npm start' in the 'Attacker' 
+* Run the script 'npm start' in the 'vulnerable/client'
+* Run the script 'npm start' in the 'vulnerable/server'
+
+
  ## Run the script -
 
   $ npm start
